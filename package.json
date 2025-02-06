@@ -1,0 +1,11 @@
+{
+  "name": "grid-structure-persons",
+  "version": "1.0.0",
+  "description": "HTML CSS Grid Structure with Person Insertion and Start Game",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
